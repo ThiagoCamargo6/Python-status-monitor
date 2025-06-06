@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5f981e72-01c1-4bc5-a336-30ca39cdd3d9)
+
 # StatusMonitor ✨
 
 ### 🤔 Por que usar o StatusMonitor?
