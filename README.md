@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/5f981e72-01c1-4bc5-a336-30ca39cdd3d9)
-
 # StatusMonitor ✨
 
 ### 🤔 Por que usar o StatusMonitor?
@@ -27,6 +25,9 @@ Acompanhar o status de APIs públicas que você usa em seus projetos (previsão 
 * **Leve e Multiplataforma:** Por ser feito em Python, roda em Windows, macOS e Linux.
 
 ---
+
+![image](https://github.com/user-attachments/assets/5f981e72-01c1-4bc5-a336-30ca39cdd3d9)
+
 
 ### 🛠️ Instalação e Execução
 
