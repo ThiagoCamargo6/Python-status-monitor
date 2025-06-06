@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "refresh_interval_seconds": 60
+  },
+  "services": [
+    {
+      "name": "Gestor de Finanças",
+      "url": "http://localhost:8501"
+    },
+    {
+      "name": "Controle Projetos",
+      "url": "http://localhost:8503"
+    },
+    {
+      "name": "Gerador Matera (Web)",
+      "url": "https://gerador-matera-1.onrender.com"
+    },
+    {
+      "name": "Serviço Inexistente (Teste)",
+      "url": "http://localhost:9999"
+    }
+  ]
+}
